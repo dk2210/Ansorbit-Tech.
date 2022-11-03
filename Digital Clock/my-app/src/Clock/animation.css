@@ -1,0 +1,12 @@
+
+.clock {
+    animation-name: clock_rotate;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+    animation-duration: 5s;
+    animation-play-state: running;
+}
+
+@keyframes clock_rotate {
+    50% {transform: rotate(360deg);}
+}
