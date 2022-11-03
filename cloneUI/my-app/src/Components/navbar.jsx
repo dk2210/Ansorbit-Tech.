@@ -3,6 +3,7 @@
 const Navbar = () => {
     return ( 
         <div style={{padding:'5px 25px',position:'sticky',top:'0',display: 'flex',justifyContent:'space-between',alignItems:'center', height: '100px', background: '#051242'}}>
+
             <div style={{width: '150px', height:'70px'}}>
                 <img  style={{width:'100%',height:'100%'}} src="https://www.ansorbit.com/assets/images/logo.png" alt="no-internet" />
             </div>

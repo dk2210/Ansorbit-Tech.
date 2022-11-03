@@ -2,7 +2,7 @@
 
 const Middle = () => {
     return(
-     <div style={{display:'flex', flexDirection:'column',height:'300px',padding:'40px 40px 100px 40px',}}>
+     <div style={{display:'flex',zIndex:'2', flexDirection:'column',height:'300px',padding:'40px 40px 100px 40px',}}>
 
         <div style={{display:'flex', flexDirection:'column',}}>
             <p style={{color:' #1d42d9'}}>Careers</p>
