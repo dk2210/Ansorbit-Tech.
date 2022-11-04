@@ -1,0 +1,32 @@
+
+.model_button:hover {
+    background-color: darkblue;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.model_containor:hover {
+    color:black;
+}
+.pay:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.info_button:hover {
+    background-color: grey;
+    color:white;
+    cursor: pointer;
+}
+
+.dlt_button:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+.confirm_button:hover {
+    background-color: blue;
+    color: white;
+}
