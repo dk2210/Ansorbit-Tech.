@@ -29,13 +29,13 @@ const Model = (props) => {
         style={{
           border: "1px solid",
           width: "600px",
-          height: "400px",
+          height: "600px",
           display: "flex",
           alignItems: "",
           backgroundColor:'white',
           justifyContent: "space-evenly",
-        //   color: "white", 
-          padding:'20px',
+          padding:'15px',
+          overflow:'scroll'
         }}
       >
         <div 
