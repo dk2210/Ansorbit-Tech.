@@ -33,15 +33,18 @@ const Navbar = () => {
     <div
       style={{
         display: "flex",
-        border: "1px solid blue",
-        width: "100%",
-        height: "97px",
+        border:'1px solid #b0c4de',
+        width: "98%",
+        height: "110px",
         background: "white",
         alignItems: "center",
         justifyContent: "space-between",
+        padding:'10px',
+        margin:'10px auto auto',
+        borderRadius:'5px'
       }}
     >
-      <div style={{ border: "1px solid red", width: "20%" }}>
+      <div style={{width: "20%" }}>
         <div style={{ width: "60%", height: "95px" }}>
           <img
             style={{ width: "100%", height: "100%" }}
@@ -52,7 +55,6 @@ const Navbar = () => {
       </div>
       <div
         style={{
-          border: "1px solid black",
           width: "18%",
           display: "flex",
           justifyContent: "space-around",
@@ -77,7 +79,6 @@ const Navbar = () => {
         <div
           style={{
             display: "flex",
-            border: "1px solid",
             flexDirection: "column",
             justifyContent: "center",
             alignItems: "center",
