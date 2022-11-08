@@ -1,0 +1,28 @@
+
+.input {
+    width: 70%;
+    border:1px solid grey;
+    margin: 20px 0px 0px 0px;
+    padding:5px 8px
+}
+
+.login_button:hover,.button:hover {
+    background-color: blue;
+    color: white;
+}
+.signup_input {
+    padding: 2px 5px;
+    margin:auto auto auto 10px;
+    border: 0.5 solid 	#C0C0C0;
+    text-align: left;
+    width:50%
+}
+ .button {
+    padding: 8px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;              
+ }
