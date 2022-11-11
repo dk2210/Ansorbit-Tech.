@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "name": "Nishan Patel",
+      "email": "vrushabh123@gmail.com",
+      "image_URL": "data:image/jpeg;base64,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",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
